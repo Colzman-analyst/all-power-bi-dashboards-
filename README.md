@@ -17,3 +17,6 @@ Month Number , Month , 2022 , 2023 ,2023 Predictions
 11 , November , 4011.00 ,  , 9690.10
 12 , December , 17885.00 ,  , 8483.35
 
+AIM OF THE PROJECT 
+
+To show the changes between the previods over a specific period of time 
