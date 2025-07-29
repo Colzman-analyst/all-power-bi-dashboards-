@@ -1,7 +1,7 @@
+# Actual-sales-vs-Target-sales screenshot
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/420c959d-8a94-47ca-b773-e9e9c798bb65" />
 
-
-
-# Actual-sales-vs-Target-sakles
+# Actual-sales-vs-Target-sales
 In this project, the Actual sales achieved in a given period to the pre-established sales goals or Target sales for that period  where compared.
 
 # Questions-to-address
