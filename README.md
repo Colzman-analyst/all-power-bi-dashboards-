@@ -1,3 +1,6 @@
+# Pizza-sales-dashboard screenshot
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5e5d83b-b742-4943-b69a-1f50578259d7" />
+
 # Pizza-sales-dashboard
 Did a maven analytics challenge for a pizza dashboard showing various KPIs from the dataset 
 
