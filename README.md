@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0c77c3a0-5113-4a51-bfca-b2e2ffeef01c" />
+
 # International-Business-Communication-Standard-IBCS-Chart-
 This chart shows how overlapping bars shows the past year or previous year as well as red and green colours to identify the changes  between the two periods 
 
